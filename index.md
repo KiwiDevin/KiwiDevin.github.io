@@ -1,6 +1,6 @@
 # 张三的技术博客
 
-![个人头像](/KiwiDevin.github.io/image.png)
+![个人头像](/image.png)
 
 ## 关于作者
 
