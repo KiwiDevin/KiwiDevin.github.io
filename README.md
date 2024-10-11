@@ -1,2 +1,2 @@
 # KiwiDevin.github.io
-This is the reposity of my website.
+This is the repository of my website.
