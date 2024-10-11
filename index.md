@@ -2,7 +2,5 @@
 
 欢迎来到FurTorus，我的个人站点！
 
-**关于作者**：理论物理phd candidate，研究方向为topological quantum matter，希望在这个网站上记录最近学习的内容
-
-**邮箱**：KiwiDevin@outlook.com
+phd candidate一枚，希望在此记录最近学习的内容
 
