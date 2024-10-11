@@ -1,2 +1,2 @@
 # KiwiDevin.github.io
-This is the repository of my personal website.
+**Email:** KiwiDevin@outlook.com
