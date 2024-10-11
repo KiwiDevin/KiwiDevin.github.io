@@ -1,0 +1,49 @@
+/* 基本重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 页面容器 */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+/* 侧边栏 */
+.sidebar {
+    text-align: center;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.name {
+    font-size: 1.5em;
+    margin-bottom: 0.5rem;
+}
+
+.bio {
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* 主要内容区域 */
+.main-content {
+    /* 根据需要添加样式 */
+}
+
+/* 适配手机和平板设备 */
+@media screen and (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
