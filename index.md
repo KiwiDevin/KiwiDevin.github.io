@@ -1,6 +1,5 @@
-# FurTorus
-
 ![个人头像](/image.png)
+欢迎来到FurTorus，我的个人站点！
 
 ## 最近的文章
 
