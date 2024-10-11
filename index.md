@@ -2,5 +2,3 @@
 
 欢迎来到FurTorus，我的个人站点！
 
-phd candidate一枚，希望在此记录最近学习的内容
-
