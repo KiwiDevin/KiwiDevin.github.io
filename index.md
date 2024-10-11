@@ -1,2 +1,1 @@
-### Content
-This is the content of my personal website.
+欢迎来到KiwiDevin的个人网站！
