@@ -1,2 +1,2 @@
 # KiwiDevin.github.io
-**Email:** KiwiDevin@outlook.com
+This is the reposity of my website.
