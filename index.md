@@ -1,2 +1,2 @@
-### Welcome to FurTorus
-This is a personal website.
+### Content
+This is the content of my personal website.
