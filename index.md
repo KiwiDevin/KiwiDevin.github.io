@@ -2,4 +2,4 @@
 欢迎来到FurTorus，我的个人站点！
 
 # 最新文章
-[建站纪念](/_posts/2024-10-11-blog1.md)
+[阅读更多](/blog/my-first-blog-article.html)
